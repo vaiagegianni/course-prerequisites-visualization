@@ -58,8 +58,14 @@ This project was developed as part of my undergraduate thesis:
 
 **Supervisor:** Nikolaos Platis
 
+**Development Period:** November 2025 – October 2026
+
+## Documentation
+
+The full thesis report is available in Greek and provides more details about the project's design, development, and features.
+
+[Read the Full Thesis Report (PDF)](docs/thesis-report.pdf)
+
 ## Author
 
 **Vaia Gegianni**
-
-Undergraduate thesis project — 2026
